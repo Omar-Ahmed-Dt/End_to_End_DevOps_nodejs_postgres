@@ -4,6 +4,6 @@ This repository contains scripts and Kubernetes manifests for deploying the Node
 ## Prerequisites
 - Docker 
 - kubernetes 
-- AWS 
-- Terraform
-- Jenkins 
+- Git
+- Minikube Setup 
+- Argocd
